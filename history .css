@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100dvh;
+    background-image: url("./Picsart_blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+.nav{
+    width: 100%;
+    height: 50px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+   
+}
+.yuo{
+    font-size: 16px;
+}
+.das{
+   
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nava{
+    width: 30%;
+    height: 50px;
+    text-decoration: none;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: white;
+}
+.navb{
+    width: 70%;
+    height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.das21{
+    width: 30%;
+    height: 50px;
+
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+.das2{
+width: 70%;
+height: 50px;
+
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.co{
+    width: 50%;
+height: 50px;
+
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leo{
+    width: 40%;
+    height: 50px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leo2{
+    width: 60%;
+    height: 50px;
+    
+    
+}
+.profile{
+    width: 80%;
+    border-radius: 50%;
+    height: 80%;
+}
+.name{
+    width: 100%;
+    height: 50%;
+   
+}
+.t{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.r{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one2{
+    width: 100%;
+    height: 130px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.may{
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.may1{
+    width: 90%;
+    height: 80px;
+    border: 1px solid rgb(154, 154, 154);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 20px;
+    background-color: rgba(114, 119, 123, 0.413);
+}
+.may11{
+    width: 60%;
+    height: 60px;
+   
+    padding-left: 10px;
+}
+.may22{
+    width: 40%;
+    height: 80px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.may111{
+    width: 100%;
+    height: 30px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: start;
+   
+}
+.history{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vaa{
+    color: blueviolet;
+}
+.his1{
+    width: 30%;
+    height: 30px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.fottor{
+    width: 100%;
+    height: 60px;
+
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+.fotter{
+    width: 80%;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 25px;
+    background-color: rgba(77, 103, 180, 0.669);
+    box-shadow: 0px 0px 20px  rgb(0, 159, 245) inset;
+    margin-top: 70px;
+    
+}
+.yr{
+    color: white;
+}
+.hj{
+    color: blueviolet;
+}
+.spa{
+    color: red;
+}
